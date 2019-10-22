@@ -12,8 +12,6 @@ namespace LogicGateDiode
         }
         public override BuildingDef CreateBuildingDef()
         {
-            //return base.CreateBuildingDef("LogicDiodeGate", "logic_not_kanim", 2, 1);
-            //float[] tier = BUILDINGS.CONSTRUCTION_MASS_KG.TIER_TINY;
             string ID = "LogicDiodeGate";
             int width = 2;
             int height = 1;
